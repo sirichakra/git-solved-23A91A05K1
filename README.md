@@ -54,3 +54,4 @@ git clone <repo-url>
 cd devops-simulator
 bash scripts/deploy.sh
 ## FAQ
+update
