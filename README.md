@@ -53,3 +53,4 @@ The current release merges the stable **production version (v1.0.0)** and the **
 git clone <repo-url>
 cd devops-simulator
 bash scripts/deploy.sh
+## FAQ
